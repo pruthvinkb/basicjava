@@ -14,5 +14,6 @@ class b extends a{
 public class UseSuper {
 public static void main(String[] args) {
 	b ab=new b();
+	System.out.println(ab);
 }
 }
